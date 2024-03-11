@@ -1,8 +1,9 @@
-### Hi there 👋, I'm Joshua Brown
-#### Programmer 
-A Creative Programmer with interest in Game Development
+#Joshua Brown
+I'm a Creative Programmer with interest in Game Development
 
-Skills: C++, Unreal Engine
+## Skills: 
+* 💻 C++
+* 🎮 Unreal Engine
 
 
 
