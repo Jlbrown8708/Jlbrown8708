@@ -1,5 +1,5 @@
 
-# Joshua Brown
+# Hi, I'm Joshua Brown 👋
 I'm a Creative Programmer with interest in Game Development
 
 ## Skills: 
