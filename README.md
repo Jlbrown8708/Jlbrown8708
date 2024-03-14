@@ -3,7 +3,7 @@
 I'm a Creative Programmer with interest in Game Development
 
 ## Skills: 
-* 💻 C++
+* 💻 C++ , Git
 * 🎮 Unreal Engine
 
 
