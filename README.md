@@ -1,6 +1,6 @@
 
 # Hi there, I'm Joshua Brown 👋
-I'm a Creative Programmer with interest in Game Development
+I'm a Creative Programmer with interest in Back-End Development
 
 ## Skills: 
 * 💻 C++ , Git
